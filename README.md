@@ -7,7 +7,16 @@ computer totals lunch items and displays total
 # {name: 'string' price:float, type: side || main }
 
 # Dish - handles both main and side dish
- 
+
 # sideDish Class and Main Dish Class
 
-# lunch_lady_assignment
+# app.rb
+
+# restaurant 
+class Dish 
+@price 
+@name
+end 
+class Restaurant 
+@main_dishes
+end
